@@ -9,7 +9,7 @@ class GoogleButton extends StatelessWidget {
     return OutlinedButton.icon(
       onPressed: onPressed,
       icon: Image.asset(
-        'assets/images/google.png', // <- path yang benar
+        'assets/images/google.png',
         width: 20,
         height: 20,
         errorBuilder: (_, __, ___) => const Icon(Icons.g_mobiledata),

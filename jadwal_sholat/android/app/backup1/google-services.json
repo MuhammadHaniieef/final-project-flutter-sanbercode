@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458308389893",
+    "project_id": "final-project-jadwal-sholat",
+    "storage_bucket": "final-project-jadwal-sholat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458308389893:android:b2db491b951407d19ce06c",
+        "android_client_info": {
+          "package_name": "jadwalsholat.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458308389893-893g08cn1r3p83f6gb2f98k0tbr5nmuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jadwalsholat.com",
+            "certificate_hash": "2896f6fdb1cb590561918d06330ec3148aa2ccff"
+          }
+        },
+        {
+          "client_id": "458308389893-so01jfldjk1vgmroo1s7qt4c70f1g2l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt291ZbdBvvwN9PsV-iBfwHV9Ei3V1dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458308389893-so01jfldjk1vgmroo1s7qt4c70f1g2l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
