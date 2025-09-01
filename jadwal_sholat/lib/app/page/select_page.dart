@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../modules/location/select_location_controller.dart';
-import 'package:flutter/services.dart'; // untuk status bar icon putih kalau perlu
+import 'package:flutter/services.dart';
 
 class SelectPage extends GetView<SelectLocationController> {
   const SelectPage({super.key});
@@ -15,7 +15,7 @@ class SelectPage extends GetView<SelectLocationController> {
     final h = MediaQuery.of(context).size.height;
 
     return Scaffold(
-      extendBodyBehindAppBar: true, // biar AppBar transparan di atas gambar
+      extendBodyBehindAppBar: true, 
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
